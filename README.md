@@ -37,6 +37,43 @@ The purpose of this analysis was to replace all of the ninth graders math and re
 ![52895331-AACF-47AA-8114-87561C1FB82D](https://user-images.githubusercontent.com/92240407/145522807-fe309150-540d-4910-b86d-b735394cfb0d.jpeg)
 
 - How does replacing the ninth-grade scores affect scores by school spending?
+  - The scores by school spending was slightly affected by the replacing of ninth-grade scores. On the spending summary dataframe in the row of the spending range (per student) for "$630-$644" was the only row affected where the updated dataframe resulted in a decrease of about 0.1 (0.1% for columns with percentage) compared to the original dataframe.  
+
+**Original Spending Summary DataFrame**
+![7812124B-4CAA-4102-B974-DA48C0DF68B0_4_5005_c](https://user-images.githubusercontent.com/92240407/145641185-18b07fe2-20a1-483a-9c7d-b817cb47ea71.jpeg)
+
+**Updated Spending Summary DataFrame**
+![6E713A96-A6FA-4824-8A16-DD15C412690C_4_5005_c](https://user-images.githubusercontent.com/92240407/145641343-95d8ebb1-ab72-421e-8691-bcbce5434d64.jpeg)
+
+- How does replacing the ninth-grade scores affect scores by school size?
+  - Similar to the scores by school spending, the scores by school size were slight affected as well when replacing the ninth-grade scores. On the size summary dataframe in the row of the school size for "Medium (1000-2000)" was the only row affected where the updated dataframe resulted in a decrease of about 0.1 (0.1% for columns with percentage) compared to the original dataframe. 
+
+**Original Size Summary DataFrame**
+![F2F47F22-B0F7-4D0F-8168-FCD3ADDFA4CB_4_5005_c](https://user-images.githubusercontent.com/92240407/145641929-6fe1ca48-8f88-438e-8f13-3228b8fd115c.jpeg)
+
+**Updated Size Summary DataFrame**
+![44ED84C8-7460-459C-96CA-17CE6DAF492D_4_5005_c](https://user-images.githubusercontent.com/92240407/145642015-178aa70d-76d7-4004-ba84-7b3f329f6b4b.jpeg)
+
+- How does replacing the ninth-grade scores affect the scores by school type?
+  - For the scores by school type, only the charter row was slightly affected! The charter row in the updated school type summary dataframe experienced a decrease of about 0.1 (0.1% for columns with percentage) in scores compared to the original school type summary dataframe. 
+
+**Original School Type Summary DataFrame**
+![D483EFB6-D28A-45B6-9DBA-84DEE44993AD_4_5005_c](https://user-images.githubusercontent.com/92240407/145642687-3271200c-0c40-41ae-80df-be69493946ff.jpeg)
+
+**Updated School Type Summary DataFrame**
+![E8848CF6-E8DF-44F4-A222-8925331799A1_4_5005_c](https://user-images.githubusercontent.com/92240407/145642730-697a7c8f-88d3-4457-85e4-62e3c0a2bb14.jpeg)
+
+## Summary
+1. District Summary DataFrame: All scores experienced a decrease of about 0.3 (0.3%) compared to the original dataframe.
+2. Thomas High School: Maintained its ranking as #2 for top 5 schools and the scores for this specific school were only slightly affected by a decrease of 0.1 (0.1%).
+3. Scores by School Spending: The spending range of "$630-644" was slightly affected by a decrease of 0.1 (0.1%).
+4. Scores by School Type: All of the scores for charter school type were slightly affected by a decrease of about 0.1 (0.1%).
+
+
+
+
+
+
 
 
 
